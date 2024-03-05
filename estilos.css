@@ -1,0 +1,31 @@
+
+
+body {
+    position: relative;
+    background-image: url(/imagem/30-fatos-interessantes-de-psicologia-que-te-farão.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    height: 100vh;
+    margin: auto;
+    border: 2px solid red;
+}
+
+
+h1 {
+    padding-bottom: 40%;
+}
+
+.login{
+    text-align: center;
+    position: absolute;
+    width:100%;
+    padding-top: 40%;
+}
+
+.login form {
+    display: inline-block;
+    position: relative;
+    text-align: justify;
+}
+
